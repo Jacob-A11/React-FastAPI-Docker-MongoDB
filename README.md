@@ -1,7 +1,5 @@
 # Fastapi-React-Mongodb-Docker
 
-![Tests](https://github.com/yourusername/fastapi-react-mongodb-docker/actions/workflows/test.yml/badge.svg)
-![Build](https://github.com/yourusername/fastapi-react-mongodb-docker/actions/workflows/build.yml/badge.svg)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 ![python_version](https://img.shields.io/badge/Python-%3E=3.12-blue)
 
