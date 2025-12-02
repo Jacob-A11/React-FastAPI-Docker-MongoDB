@@ -11,11 +11,7 @@ This is a template application for a FARM stack. FARM stands for FastAPI, React,
 
 ### Clean design with minimal dependencies
 
-[![API docs](frontend/public/farmd-1.png)](https://github.com/yourusername/fastapi-react-mongodb-docker)
-
 ### Basic user management with OAuth2 SSO
-
-[![API docs](frontend/public/farmd-2.png)](https://github.com/yourusername/fastapi-react-mongodb-docker)
 
 ## Project structure
 
